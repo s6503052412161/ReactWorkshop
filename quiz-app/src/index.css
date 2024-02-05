@@ -11,7 +11,7 @@ body {
     flex-direction: column;
     text-align: center;
     background-image: url('D:/Sappawat_lab4/ReactWorkshop/quiz-app/src/Background.jpg');
-    background-size: cover;
+    background-size: fill;
     background-repeat:no-repeat ;
     background-position: center;
   }
